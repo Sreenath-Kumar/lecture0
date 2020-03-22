@@ -14,56 +14,6 @@ p{
     font-size: 24px;
     color: white;
 }
-/*#topbar{
-    background-color: blueviolet;
-    height: 30px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-end;
-    padding: 10px 20px 10px 20px;
-}
-#topbar> a{
-    color: #000;
-    font-size: 24px;
-    margin-right: 10px;
-    margin-right: 10px;
-    
-}*/
-/* #navbar{
-    position: fixed;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-    background-color: aqua;
-    height: 70px;
-    width: 100%;
-}
-@media (max-width: 400px){
-    .nav{
-        align-items: center;
-        background-color: orchid;
-    }
-}
-nav > a{
-    font-size: 24px;
-    font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-}
-nav > a:hover{
-    text-decoration: none;
-    color: orangered;
-    font-size: 30px;
-}
-.about,.work{
-    margin-right: 30px;
-    text-decoration: none;
-}
-.contact{
-    margin-right: 40px;
-}*/
 
 /* Nav Style Starts*/
 nav{
